@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q5',
     'points': 1,
     'suites': [   {   'cases': [   {'code': '>>> isinstance(set_c, set)\nTrue', 'hidden': False, 'locked': False},

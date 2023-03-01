@@ -1,3 +1,4 @@
+OK_FORMAT=True
 test = {   'name': 'q1',
     'points': 1,
     'suites': [   {   'cases': [   {'code': '>>> isinstance(my_info, dict)\nTrue', 'hidden': False, 'locked': False},
